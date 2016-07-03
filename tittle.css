@@ -1,10 +1,11 @@
 li {
-    float: left;
-}
-
-.team {
     float: right;
-    color: black;
+     color: #00c;
+    font-weight: blod;
+    line-height: 24px;
+    margin-left: 20px;
+    font-size: 13px;
+    text-decoration: underline;
 }
 
 body,
@@ -23,9 +24,35 @@ ul {
 
 body {
     font: 12px arial;
-    background: #fff;
 }
 
 .img {
-    margin: auto;
+    position: relative;
+    left: 600px;
+    top: 150px;
+    width: 200px;
+    height: 200px;
+}
+
+.box {
+    position: relative;
+    left: 600px;
+    top: 40px;
+}
+
+.su {
+    position: relative;
+    top: 10px;
+    left: 860px;
+}
+
+.img1 {
+    position: relative;
+    top: 210px;
+    left: 350px;
+}
+
+.su {
+    width: 100px;
+    height: 25px;
 }

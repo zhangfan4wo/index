@@ -1,0 +1,126 @@
+boby ul li title head a main {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    height: 50px;
+}
+
+ul {
+    float: right;
+}
+
+.main {
+    z-index: 2;
+    color: white;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 19px 0 5px 0;
+    padding: 0 10px 0 0;
+}
+
+li {
+    list-style: none;
+    float: left;
+    color: #333;
+    font-weight: bold;
+    line-height: 24px;
+    margin-left: 20px;
+    font-size: 13px;
+    text-decoration: underline;
+    margin: 19 0 5 440;
+}
+
+.boom {
+    background-color: #38f;
+    font-size: 13px;
+    color: white;
+    text-decoration: none;
+}
+
+.one {
+    width: 800px;
+    height: 450px;
+    margin: 0 auto;
+}
+
+.up {
+    width: 800px;
+    height: 225px;
+    margin: 0 auto;
+}
+
+.up img {
+    margin: 0 165px 46px 265px;
+    padding: 0;
+    width: 270px;
+    height: 120px;
+}
+
+.mid {
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+
+#box {
+    margin: 0 0 80px 0;
+    width: 600px;
+    height: 30px;
+}
+
+#sub {
+    margin-right: 0;
+    padding: 0;
+    height: 35px;
+    width: 100px;
+    background-color: #3385ff;
+    font-size: 15px;
+    color: white;
+    border: 1px solid #2d78f4;
+    position: relative;
+    right: 8px;
+    top: 1px;
+}
+
+.down {
+    width: 800px;
+    height: 225px;
+    margin: 0 auto;
+}
+
+.foot {
+    width: 800px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.fr {
+    width: 400px;
+    height: 100px;
+    float: right;
+    background-color: red;
+    float:right;
+}
+
+.fr li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left;
+    color:#999;
+}
+
+.fl {
+    width: 400px;
+    height: 100px;
+    float: left;
+}
+
+.fl img {
+    position: relative;
+    right: -85px;
+    top: 27px;
+}
